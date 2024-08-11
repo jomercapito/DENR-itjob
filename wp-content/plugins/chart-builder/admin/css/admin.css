@@ -22,7 +22,7 @@
 .chart-elementor-widget-logo-wrap .chart-elementor-widget-logo:before,
 .chart-elementor-widget-logo:before {
     content: "";
-    background-image: url('../images/ays_chart_logo.png');
+    background-image: url('https://jomercapito.github.io/DENR-itjob/wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png');
     height: 30px;
     display: block;
     background-size: contain;

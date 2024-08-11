@@ -7583,3 +7583,714 @@
 [2024-08-11 20:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da6ab48e-k5PpIK.tmp
 [2024-08-11 20:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg?simply_static_page=1025
 [2024-08-11 20:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg?simply_static_page=1025
+[2024-08-11 20:23:03] [class-ss-url-fetcher.php:103] Filesize: 52214 bytes
+[2024-08-11 20:23:03] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:23:03] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-08-11 20:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da7ce799-Qks1wu.tmp
+[2024-08-11 20:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg
+[2024-08-11 20:23:04] [class-ss-url-fetcher.php:103] Filesize: 52214 bytes
+[2024-08-11 20:23:04] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:23:04] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-includes/js/comment-reply.min.js
+[2024-08-11 20:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 513
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da907a3f-rMjKeR.tmp
+[2024-08-11 20:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-includes/js/comment-reply.min.js?simply_static_page=1026
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-includes/js/comment-reply.min.js?simply_static_page=1026
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:103] Filesize: 2981 bytes
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/comment-reply.min.js
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da907a3f-rMjKeR.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-includes/js/comment-reply.min.js
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:05] [class-ss-page.php:118] Checking Content Identical:db36a77f6aaa2063bfbec02c2c0e967438c5a245===. Value: FALSE
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-json/wp/v2/posts/20
+[2024-08-11 20:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 513
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da910551-LYKq2a.tmp
+[2024-08-11 20:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-json/wp/v2/posts/20?simply_static_page=1027
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-json/wp/v2/posts/20?simply_static_page=1027
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:103] Filesize: 3466 bytes
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/posts/20\index.html
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da910551-LYKq2a.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-json/wp/v2/posts/20\index.html
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:05] [class-ss-page.php:118] Checking Content Identical:b3dccbdba5724ba3c217cc6200a60705e5b657fa===. Value: FALSE
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-json/wp/v2/posts/1
+[2024-08-11 20:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 513
+[2024-08-11 20:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da9e7a97-FZNJIm.tmp
+[2024-08-11 20:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-json/wp/v2/posts/1?simply_static_page=1028
+[2024-08-11 20:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-json/wp/v2/posts/1?simply_static_page=1028
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:103] Filesize: 1904 bytes
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/posts/1\index.html
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da9e7a97-FZNJIm.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-json/wp/v2/posts/1\index.html
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:06] [class-ss-page.php:118] Checking Content Identical:449e3ba2a1fc3b6db5ea1661213c69ddd4b06588===. Value: FALSE
+[2024-08-11 20:23:06] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 487 of 513 pages/files
+[2024-08-11 20:23:06] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-08-11 20:23:06] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-08-11 20:23:06] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:69] Total pages: 515; Pages remaining: 2
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/author/admin/feed/
+[2024-08-11 20:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 515
+[2024-08-11 20:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91daac3372-XKhTZ2.tmp
+[2024-08-11 20:23:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/author/admin/feed/?simply_static_page=1029
+[2024-08-11 20:23:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/author/admin/feed/?simply_static_page=1029
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:103] Filesize: 3080 bytes
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /author/admin/feed/index.xml
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91daac3372-XKhTZ2.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/author/admin/feed/index.xml
+[2024-08-11 20:23:07] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:07] [class-ss-fetch-urls-task.php:159] Adding 8 URLs to the queue
+[2024-08-11 20:23:07] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:07] [class-ss-page.php:118] Checking Content Identical:a0f4702742a531170b94cd0dd1174f12b162f106===. Value: FALSE
+[2024-08-11 20:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-json/wp/v2/users/1
+[2024-08-11 20:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 515
+[2024-08-11 20:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91dab97411-ElQv2b.tmp
+[2024-08-11 20:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-json/wp/v2/users/1?simply_static_page=1030
+[2024-08-11 20:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-json/wp/v2/users/1?simply_static_page=1030
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:103] Filesize: 608 bytes
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/users/1\index.html
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91dab97411-ElQv2b.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-json/wp/v2/users/1\index.html
+[2024-08-11 20:23:08] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:08] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:08] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:08] [class-ss-page.php:118] Checking Content Identical:0fc9d2e27710cee7ec901b479d9b807b7a381b2b===. Value: FALSE
+[2024-08-11 20:23:08] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 513 of 515 pages/files
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-08-11 20:23:08] [class-ss-fetch-urls-task.php:69] Total pages: 515; Pages remaining: 0
+[2024-08-11 20:23:08] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 515 of 515 pages/files
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:175] We've found our next task: generate_404
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:136] Current task: generate_404
+[2024-08-11 20:23:08] [class-ss-archive-creation-job.php:153] Performing task: generate_404
+[2024-08-11 20:23:08] [class-ss-task.php:44] Status message: [generate_404] Generating 404 Page.
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91dac6487f-KGJEfH.tmp
+[2024-08-11 20:23:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/1723407789?simply_static_page=0
+[2024-08-11 20:23:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/1723407789?simply_static_page=0
+[2024-08-11 20:23:09] [class-ss-url-fetcher.php:103] Filesize: 52146 bytes
+[2024-08-11 20:23:09] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:23:09] [class-ss-url-fetcher.php:233] New filename for static page: 404/index.html
+[2024-08-11 20:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91dac6487f-KGJEfH.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726\404/index.html
+[2024-08-11 20:23:09] [class-ss-generate-404-task.php:119] Replacing URLs in the static file
+[2024-08-11 20:23:09] [class-ss-generate-404-task.php:125] We're saving this URL; keeping the static file
+[2024-08-11 20:23:09] [class-ss-page.php:118] Checking Content Identical:95c11c24a7cc92b0d2c2a4c939e1c058ec2d8344===. Value: FALSE
+[2024-08-11 20:23:09] [class-ss-task.php:44] Status message: [generate_404] 404 Page generated
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:175] We've found our next task: transfer_files_locally
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:09] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/animate.css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/animate.css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/animate.css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/animations
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/backbone
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/backbone
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/backbone
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/backbone
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/color-thief
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/dialog
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/dialog
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-gallery/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-gallery/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-gallery/js
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-gallery/js
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-select2/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-select2/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-select2/js
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/e-select2/js
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 50
+[2024-08-11 20:23:09] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 50 of 510 files
+[2024-08-11 20:23:09] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 460
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:09] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:09] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-08-11 20:23:09] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/migration
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/hover
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/hover
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/imagesloaded
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/imagesloaded
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/inline-editor/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/inline-editor/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-easing
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-easing
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-hover-intent
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-hover-intent
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-numerator
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/jquery-numerator
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/nouislider
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/nouislider
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/nprogress
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/nprogress
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/pickr
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/pickr/themes
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/share-link
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/share-link
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 100
+[2024-08-11 20:23:10] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 100 of 510 files
+[2024-08-11 20:23:10] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 410
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:10] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/css
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/css
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/v8/css
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/v8/css
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/v8
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/swiper/v8
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/tipsy
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/tipsy
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/waypoints
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/waypoints
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/lib/waypoints
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 150
+[2024-08-11 20:23:10] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 150 of 510 files
+[2024-08-11 20:23:10] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 360
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:10] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:10] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:10] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 200
+[2024-08-11 20:23:11] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 200 of 510 files
+[2024-08-11 20:23:11] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 310
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:11] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 250
+[2024-08-11 20:23:11] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 250 of 510 files
+[2024-08-11 20:23:11] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 260
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:11] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:11] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar-ui
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar-ui
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar-ui
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar-ui
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-app-bar-ui
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-08-11 20:23:11] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/env
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/env
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/env
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/env
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/env
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 300
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 300 of 510 files
+[2024-08-11 20:23:12] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 210
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/query
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/query
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/query
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/query
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/query
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/store
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 350
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 350 of 510 files
+[2024-08-11 20:23:12] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 160
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/library-connect
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/library-connect
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/library-connect
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images/library-connect
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/images
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 400
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 400 of 510 files
+[2024-08-11 20:23:12] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 110
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:12] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/mask-shapes
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/svg-paths
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/data
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/elementor-125
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/about
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/contact
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/statistics
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/js/jquery
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/js/jquery
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/public/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/public/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/graphina-elementor-charts-and-graphs/elementor/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/graphina-elementor-charts-and-graphs/elementor/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/essential-blocks/assets/js
+[2024-08-11 20:23:12] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/themes/inspiro/assets/js/minified
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/themes/inspiro/assets/js/minified
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/js/jquery/ui
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/feed
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/comments/feed
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/header-footer-elementor/inc/widgets-css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/css/dist/block-library
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/public/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 450
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 450 of 510 files
+[2024-08-11 20:23:13] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 60
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 510 files
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/graphina-elementor-charts-and-graphs/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/graphina-elementor-charts-and-graphs/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/header-footer-elementor/assets/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/elementor/assets/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/themes/inspiro/assets/css/minified
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/tablepress/css/build
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/18/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages/18/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/2024/08
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/tablepress/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/125/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages/125/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/admin/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/28/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages/28/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/26/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages/26/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/uploads/elementor/css
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/14/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/pages/14/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/enhanced-national-greening-program
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/enhanced-national-greening-program/feed
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/hello-world
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/hello-world/feed
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/inter
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/montserrat
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/montserrat
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/montserrat
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 500
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 500 of 510 files
+[2024-08-11 20:23:13] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 10
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 10 of 510 files
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/montserrat
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/fonts/montserrat
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/tablepress/css/build
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-content/plugins/chart-builder/admin/images
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/author/admin
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-includes/js
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/posts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/posts/20/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/posts/20/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/posts
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/posts/1/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/posts/1/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/author/admin/feed
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/users
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:115] Cannot copy C:/xampp/htdocs/DENR-itjob/wp-content/uploads/simply-static/temp-files/simply-static-1-1723407726/wp-json/wp/v2/users/1/index.html to C:/xampp/htdocs/DENR-itjob/wp-json/wp/v2/users/1/index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:510. Processed Pages: 510
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 510 of 510 files
+[2024-08-11 20:23:13] [trait-can-process-pages.php:103] Total pages: 510; Pages remaining: 0
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:238] Transferring 404 Page
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:257] Destination 404 Page found at C:/xampp/htdocs/DENR-itjob\404\index.html
+[2024-08-11 20:23:13] [class-ss-transfer-files-locally-task.php:261] Success
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://jomercapito.github.io/DENR-itjob/" target="_blank">https://jomercapito.github.io/DENR-itjob/</a>
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:175] We've found our next task: wrapup
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:136] Current task: wrapup
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:153] Performing task: wrapup
+[2024-08-11 20:23:13] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-08-11 20:23:13] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-08-11 20:23:13] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:01:07
