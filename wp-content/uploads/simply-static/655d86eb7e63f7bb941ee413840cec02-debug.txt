@@ -7189,3 +7189,397 @@
 [2024-08-11 20:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91d9d70155-QRAD3U.tmp
 [2024-08-11 20:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-json/wp/v2/pages/14?simply_static_page=997
 [2024-08-11 20:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-json/wp/v2/pages/14?simply_static_page=997
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:103] Filesize: 27228 bytes
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/pages/14\index.html
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91d9d70155-QRAD3U.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-json/wp/v2/pages/14\index.html
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:22:54] [class-ss-page.php:118] Checking Content Identical:7ce1299c39313dc122ecf4f038ded02352a0fc03===. Value: FALSE
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob
+[2024-08-11 20:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 487
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91d9ebf16c-1yAros.tmp
+[2024-08-11 20:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob?simply_static_page=998
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob?simply_static_page=998
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:103] Filesize: 358 bytes
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:204] redirect_url: http://localhost/DENR-itjob/
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:213] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/enhanced-national-greening-program/
+[2024-08-11 20:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 487
+[2024-08-11 20:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91d9ec4ca2-aXl6ap.tmp
+[2024-08-11 20:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/enhanced-national-greening-program/?simply_static_page=999
+[2024-08-11 20:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/enhanced-national-greening-program/?simply_static_page=999
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:103] Filesize: 55872 bytes
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /enhanced-national-greening-program/index.html
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91d9ec4ca2-aXl6ap.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/enhanced-national-greening-program/index.html
+[2024-08-11 20:22:56] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:22:56] [class-ss-fetch-urls-task.php:159] Adding 44 URLs to the queue
+[2024-08-11 20:22:56] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:22:56] [class-ss-page.php:118] Checking Content Identical:1964183b4901fb52bcd56d1895ece631a3b46bee===. Value: FALSE
+[2024-08-11 20:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/enhanced-national-greening-program/feed/
+[2024-08-11 20:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 487
+[2024-08-11 20:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da079d1c-fZe8Qy.tmp
+[2024-08-11 20:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/enhanced-national-greening-program/feed/?simply_static_page=1000
+[2024-08-11 20:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/enhanced-national-greening-program/feed/?simply_static_page=1000
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:103] Filesize: 833 bytes
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /enhanced-national-greening-program/feed/index.xml
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da079d1c-fZe8Qy.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/enhanced-national-greening-program/feed/index.xml
+[2024-08-11 20:22:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:22:57] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-11 20:22:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:22:57] [class-ss-page.php:118] Checking Content Identical:994d9e389746b15a8301d05090506dca2e2d3f47===. Value: FALSE
+[2024-08-11 20:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/hello-world/
+[2024-08-11 20:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 487
+[2024-08-11 20:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da159789-dTisVK.tmp
+[2024-08-11 20:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/hello-world/?simply_static_page=1001
+[2024-08-11 20:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/hello-world/?simply_static_page=1001
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:103] Filesize: 56411 bytes
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /hello-world/index.html
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da159789-dTisVK.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/hello-world/index.html
+[2024-08-11 20:22:58] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:22:58] [class-ss-fetch-urls-task.php:159] Adding 43 URLs to the queue
+[2024-08-11 20:22:58] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:22:58] [class-ss-page.php:118] Checking Content Identical:76645bfd34b552bcf18582c378fe07993af14356===. Value: FALSE
+[2024-08-11 20:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/hello-world/feed/
+[2024-08-11 20:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 487
+[2024-08-11 20:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da298f27-Yp5zfO.tmp
+[2024-08-11 20:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/hello-world/feed/?simply_static_page=1002
+[2024-08-11 20:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/hello-world/feed/?simply_static_page=1002
+[2024-08-11 20:22:59] [class-ss-url-fetcher.php:103] Filesize: 1660 bytes
+[2024-08-11 20:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-11 20:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /hello-world/feed/index.xml
+[2024-08-11 20:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da298f27-Yp5zfO.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/hello-world/feed/index.xml
+[2024-08-11 20:22:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:22:59] [class-ss-fetch-urls-task.php:159] Adding 3 URLs to the queue
+[2024-08-11 20:22:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:22:59] [class-ss-page.php:118] Checking Content Identical:6d310f228d52a9095a5daecb20f3d218284e00ad===. Value: FALSE
+[2024-08-11 20:22:59] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 450 of 487 pages/files
+[2024-08-11 20:22:59] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-08-11 20:23:00] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-08-11 20:23:00] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:69] Total pages: 513; Pages remaining: 26
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-includes/fonts/dashicons.eot
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da451aa4-j4NjmS.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-includes/fonts/dashicons.eot?simply_static_page=1003
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-includes/fonts/dashicons.eot?simply_static_page=1003
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 56564 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/fonts/dashicons.eot
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da451aa4-j4NjmS.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-includes/fonts/dashicons.eot
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:f90206d72a97c26bb9618d7d7e0d10ddfd652291===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-includes/fonts/dashicons.ttf
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4610ac-YGMbLH.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-includes/fonts/dashicons.ttf?simply_static_page=1004
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-includes/fonts/dashicons.ttf?simply_static_page=1004
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 56392 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/fonts/dashicons.ttf
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4610ac-YGMbLH.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-includes/fonts/dashicons.ttf
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:540fe646c1727587dc8f9c94b676b5e4a2fceea7===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.eot
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da46c848-VzwyQo.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.eot?simply_static_page=1005
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.eot?simply_static_page=1005
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 165742 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.eot
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da46c848-VzwyQo.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.eot
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:d980c2ce873dc43af460d4d572d441304499f400===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da479293-iO0PJc.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff2?simply_static_page=1006
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff2?simply_static_page=1006
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 77160 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da479293-iO0PJc.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4843f6-iYh87m.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff?simply_static_page=1007
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff?simply_static_page=1007
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 98024 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4843f6-iYh87m.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.woff
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:28b782240b3e76db824e12c02754a9731a167527===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.ttf
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da48f4d7-FKs5Ux.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.ttf?simply_static_page=1008
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.ttf?simply_static_page=1008
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 165548 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.ttf
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da48f4d7-FKs5Ux.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.ttf
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:13b1eab65a983c7a73bc7997c479d66943f7c6cb===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.svg
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da49bda0-BNKUK2.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.svg?simply_static_page=1009
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.svg?simply_static_page=1009
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 444379 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.svg
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da49bda0-BNKUK2.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/wp-carousel-free/public/fonts/fontawesome-webfont.svg
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4af1e0-Nmzi8E.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2?simply_static_page=1010
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2?simply_static_page=1010
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 25888 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4af1e0-Nmzi8E.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:64f37addfe426c0b3e76ef20af803191c38df5b3===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4bad9c-J6mXJE.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2?simply_static_page=1011
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2?simply_static_page=1011
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 18740 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4bad9c-J6mXJE.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:d83a47942575eeb80d30ebc7bf9a5b6f83c930fb===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4c4bea-9WLIfJ.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2?simply_static_page=1012
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2?simply_static_page=1012
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 11200 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4c4bea-9WLIfJ.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:e1126a9007d27dae496647ac1b97356ebf38671c===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4ccbae-ZuWhom.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2?simply_static_page=1013
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2?simply_static_page=1013
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 19072 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4ccbae-ZuWhom.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:c475178f5395eb2c2d556c8f0e9250237c019dc8===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4d7f94-hlaqqb.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2?simply_static_page=1014
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2?simply_static_page=1014
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 10252 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4d7f94-hlaqqb.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:9c1cad863a03434fb9c1501e9dd27ac14ed7cf63===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4e6802-bQxgjm.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2?simply_static_page=1015
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2?simply_static_page=1015
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 74328 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4e6802-bQxgjm.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:ee0ebd2ef047937cd8ca547172229155813ff939===. Value: FALSE
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
+[2024-08-11 20:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 513
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4ef13b-s7jSOR.tmp
+[2024-08-11 20:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2?simply_static_page=1016
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2?simply_static_page=1016
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:103] Filesize: 48444 bytes
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
+[2024-08-11 20:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da4ef13b-s7jSOR.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:00] [class-ss-page.php:118] Checking Content Identical:d7402416753ae1bb4cbd4b10d33a0c10517838bd===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da501596-XS7LPs.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2?simply_static_page=1017
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2?simply_static_page=1017
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 23516 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da501596-XS7LPs.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:02d7b3da9067568a073486d525cfe21787d1dd04===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da509e11-Wea6dC.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2?simply_static_page=1018
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2?simply_static_page=1018
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 21288 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da509e11-Wea6dC.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:ea6b174e3bca31d6d29b84ffbcbcc3749e47892e===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da511907-Rh2Lfi.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2?simply_static_page=1019
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2?simply_static_page=1019
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 9512 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da511907-Rh2Lfi.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:ec70bd1cc33a8fa79355d0d3639b757551a95e66===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da524853-4DT38m.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2?simply_static_page=1020
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2?simply_static_page=1020
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 27812 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da524853-4DT38m.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:9f2ac701d67d1ab3a2efe7d4edc663d3d5270fef===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da531370-gYlzbj.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2?simply_static_page=1021
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2?simply_static_page=1021
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 33092 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da531370-gYlzbj.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:caf557cd276a76992084efc4c8857b66791a6b7f===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/tablepress/css/build/tablepress.woff
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da537394-0A12JW.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/tablepress/css/build/tablepress.woff?simply_static_page=1022
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/tablepress/css/build/tablepress.woff?simply_static_page=1022
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 1496 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/tablepress/css/build/tablepress.woff
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da537394-0A12JW.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/tablepress/css/build/tablepress.woff
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:66a11fc856aa66f1d26ab779caffe39ab8a1fc01===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da544bcf-ezAWPT.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png?simply_static_page=1023
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png?simply_static_page=1023
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:103] Filesize: 13728 bytes
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da544bcf-ezAWPT.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/wp-content/plugins/chart-builder/admin/images/ays_chart_logo.png
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:01] [class-ss-page.php:118] Checking Content Identical:7d0f18ec6eaea454b926571e143f7ddd194e26da===. Value: FALSE
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/author/admin/
+[2024-08-11 20:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 513
+[2024-08-11 20:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da54ca8c-OtloRT.tmp
+[2024-08-11 20:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/author/admin/?simply_static_page=1024
+[2024-08-11 20:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/author/admin/?simply_static_page=1024
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:103] Filesize: 53398 bytes
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /author/admin/index.html
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\ADMINI~1\AppData\Local\Temp/66b91da54ca8c-OtloRT.tmp to C:\xampp\htdocs\DENR-itjob/wp-content/uploads\simply-static\temp-files/simply-static-1-1723407726/author/admin/index.html
+[2024-08-11 20:23:02] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-11 20:23:02] [class-ss-fetch-urls-task.php:159] Adding 42 URLs to the queue
+[2024-08-11 20:23:02] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-11 20:23:02] [class-ss-page.php:118] Checking Content Identical:da31cda1a60922d16193ad1d43dbf5b27a6315ad===. Value: FALSE
+[2024-08-11 20:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg
+[2024-08-11 20:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 513
+[2024-08-11 20:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\ADMINI~1\AppData\Local\Temp/66b91da6ab48e-k5PpIK.tmp
+[2024-08-11 20:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg?simply_static_page=1025
+[2024-08-11 20:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/DENR-itjob/wp-content/uploads/2024/08/blob-1.jpg?simply_static_page=1025
